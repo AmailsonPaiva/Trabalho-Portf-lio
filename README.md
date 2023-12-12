@@ -1,4 +1,4 @@
-# Trabalho-Portf-lio
+# Trabalho-Portfólio
 Portfólio de Desenvolvimento - Amailson Paiva Rodrigues
 Bem-vindo ao meu portfólio de desenvolvimento! Eu sou Amailson Paiva Rodrigues, um entusiasta da programação com foco em criar soluções inovadoras e eficientes. Este repositório contém uma visão abrangente dos meus projetos, habilidades e contribuições para o mundo da programação.
 
